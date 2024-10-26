@@ -1,0 +1,500 @@
+   87  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   88  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   89  $ ^[[200~git@github.com:RomanBorenko1/git_comand.git~
+   90  git clone git@github.com:RomanBorenko1/git_comand.git~
+   91  git clone git@github.com:RomanBorenko1/git_comand.git
+   92  cat .ssh/id_ed25519.pub 
+   93  git clone git@github.com:RomanBorenko1/git_comand.git
+   94  cd git_comand
+   95  git checkout -b feature
+   96  date >> text.txt
+   97  git add .
+   98  git commit -m 'add file'
+   99  git push -u origin feature
+  100  ipconfig flushdns
+  101  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  102  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  103  exit
+  104  git branch
+  105  ls
+  106  cd
+  107  ls
+  108  git config --global user.name "Roman Borenko"
+  109  git config --global user.email "borenkoap123@gmail.com"
+  110  cd
+  111  ls -l
+  112  cd
+  113  ls-l
+  114  ls -l
+  115  cd Desktop
+  116  ls -l
+  117  ls -la
+  118  ls
+  119  cd git_repositiri
+  120  pwd
+  121  dit init
+  122  git init
+  123  git remote add origin https://github.com/RomanBorenko1/git_rep.git
+  124  git status
+  125  git branch
+  126  git status
+  127  git commit -m "Commit"
+  128  git edd 1.txt
+  129  git push
+  130  git push main
+  131  git push
+  132   git push --set-upstream origin main
+  133   git push origin main
+  134  pwd
+  135  git status
+  136  git status
+  137  git commit
+  138  git status
+  139  git status
+  140  cd
+  141  ls
+  142  ls
+  143  cd ..
+  144  ls
+  145  cd roma/
+  146  ls
+  147  pwd
+  148  cd Desktop/
+  149  ls
+  150  cd git_rep/
+  151  ls
+  152  pwd
+  153  git branch
+  154  git status
+  155  git add.
+  156  git init
+  157  git add.
+  158  git add 1.txt 
+  159  git status
+  160  git push
+  161  git push -u origin main
+  162  git remote add origin https://github.com/RomanBorenko1/git_rep.git
+  163  cd
+  164  ls
+  165  cd ..
+  166  ls
+  167  ls
+  168  cd roma/
+  169  ls
+  170  cd Desktop/
+  171  ls
+  172  cd git_rep_1/
+  173  echo "Rman Borenko" >> 1.txt
+  174  git init
+  175  git status
+  176  git add 1.txt 
+  177  git status
+  178  git commit - m "Roman_Status"
+  179  git commit -m "Roman_Status"
+  180  git branch -M main
+  181  git remote add origin https://github.com/RomanBorenko1/git_rep_1.git
+  182  git remote add origin https://github.com/RomanBorenko1/git_rep_1.git
+  183  git remote add origin https://github.com/RomanBorenko1/git_rep_1.git
+  184  git remote -v
+  185  git push -u origin main
+  186  git remote add origin git@github.com:RomanBorenko1/git_rep_1.git
+  187  git push -u origin main
+  188  git remote set-url origin https://github.com/RomanBorenko1/git_rep_1.git
+  189  git push -u origin main
+  190  ls
+  191  cd
+  192  ls
+  193  cd Desktop/
+  194  ls
+  195  cd ДЗ
+  196  ls
+  197  pwd
+  198  cd 03.09
+  199  ls
+  200  cd
+  201  ls
+  202  cd Des
+  203  cd Desktop/
+  204  ls
+  205  cd ДЗ
+  206  ls
+  207  cd .
+  208  ls
+  209  cd /
+  210  ls
+  211  cd
+  212  ls
+  213  cd Desktop/
+  214  cp ДЗ/03.09/mysql.txt git_rep_1/
+  215  cd git_rep_1
+  216  ls
+  217  git status
+  218  git add .
+  219  git status
+  220  git commit
+  221  git push origin main
+  222  git push -u origin main
+  223  git commit -m "commit_2"
+  224  git push -u origin main
+  225  ls
+  226  cd ..
+  227  ls
+  228  mkdir git_text
+  229  cd git_text
+  230  git init
+  231  git clone git@github.com:RomanBorenko1/git_text.git
+  232  git status
+  233  ls
+  234  git add .
+  235  git commit -m "add text"
+  236  git push
+  237  git push -u origin main
+  238  git push -u origin main
+  239  git remote -v
+  240  git remote add origin git@github.com:RomanBorenko1/git_text.git
+  241  git push -u origin main
+  242  git pull --rebase origin main
+  243  git add .
+  244  git rebase --continue
+  245  git push -u origin main
+  246  mkdir may_projeckt
+  247  git status
+  248  ls
+  249  git status
+  250  cd may_projeckt/
+  251  > 1.txt
+  252  cd ..
+  253  ls
+  254  git status
+  255  git add .
+  256  git commit -m "add 1.txt"
+  257  git push
+  258  git branch
+  259  cd
+  260  ls
+  261  cd Desktop
+  262  ls
+  263  cd git_text/
+  264  git branch
+  265  git checkout -d User
+  266  git chackout -d User
+  267  git checkout -d user
+  268  git chackout -и User
+  269  git chackout -b User
+  270  git checkout -b User
+  271  git branch
+  272  git checkout main
+  273  ls
+  274  cd ..
+  275  ls
+  276  cd Git_rep_1/
+  277  ls
+  278  > .feture
+  279  nano .feture 
+  280  git status
+  281  git add .
+  282  git commit -m "add .feture"
+  283  git push
+  284  git checkout -b feture
+  285  git branch
+  286  git checkout main
+  287  git branch
+  288  git checkout feture 
+  289  msdir new_rep > 1.txt >> date
+  290  msdir new_rep > 1.txt 
+  291  msdir new_rep | > 
+  292  mkdir new_rep > 1.txt >> date
+  293  git branch
+  294  git status
+  295  ls
+  296  git add .
+  297  git commit -m "add faile"
+  298  git checkout main
+  299  git status
+  300  git merge feture 
+  301  git checkout feture 
+  302  git push
+  303  git push --set-upstream origin feture
+  304  cd
+  305  cd Desktop/
+  306  cd learning_git/
+  307  mkdir 290724
+  308  > Roman_Borenko.txt
+  309  ls
+  310  cd ..
+  311  ls
+  312  cd learning_git/
+  313  ls
+  314  rm -f Roman_Borenko.txt 
+  315  ls
+  316  cd 290724/
+  317  ls
+  318  > Roman_Borenko.txt
+  319  ls
+  320  cd
+  321  ls
+  322  cd Desktop/
+  323  ls
+  324  cd learning_git/
+  325  ls
+  326  git status
+  327  git add .
+  328  git commit -m "add fiele"
+  329  git push
+  330  git remote -v
+  331  git remote set-url origin git@github.com:it-career-hub/learning_git.git
+  332  git push
+  333  ssh -T git@github.com
+  334  git push
+  335  cd
+  336  ls
+  337  cd Des
+  338  cd Desktop/
+  339  git clone git@github.com:RomanBorenko1/24.10.2024.git
+  340  git checkout -b feture
+  341  cd 24.10.2024/
+  342  ls
+  343  pwd
+  344  git checkout -b new_branch_1
+  345  echo "*js" >> .ignore
+  346  ls
+  347  wl -la
+  348  ls - la
+  349  ls -la
+  350  git status
+  351  git add .
+  352  git status
+  353  git commit -m "add ignnore"
+  354  git push oregen new_branch_1 
+  355  git push 
+  356  git push --set-upstream origin new_branch_1
+  357  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  358  #!/bin/bash
+  359  a='/c/Users/roma/Desktop/Roman'
+  360  fo i in {1 .. 3};
+  361  do
+  362  ls
+  363  cd Desktop/
+  364  cd Roman/
+  365  ls
+  366  nano Roman.sh 
+  367  ls
+  368  ./ Roman.sh 
+  369  ls
+  370  nano Roman.sh 
+  371  ./ Roman.sh 
+  372  nano Roman.sh 
+  373  chmod 777 Roman.sh 
+  374  ./ Roman.sh 
+  375  nano Roman.sh 
+  376  ./ Roman.sh 
+  377  nano Roman.sh 
+  378  ./ Roman.sh 
+  379  nano Roman.sh 
+  380  ./ Roman.sh 
+  381  nano Roman.sh 
+  382  ./ Roman.sh 
+  383  nano Roman.sh 
+  384  ./ Roman.sh 
+  385  ./Roman.sh 
+  386  ls
+  387  cd 1
+  388  ls
+  389  cd .
+  390  ls
+  391  cd ..
+  392  cl
+  393  ls
+  394  cd 3
+  395  ls
+  396  cd ..
+  397  ls
+  398  nano Roman.sh 
+  399  ./Roman.sh 
+  400  ls -la
+  401  tree
+  402  cd 1
+  403  ls
+  404  ls -la
+  405  nano R
+  406  ls
+  407  cd ..
+  408  ls
+  409  nano Roman.sh 
+  410  ./Roman.sh 
+  411  nano Roman.sh 
+  412  ./Roman.sh 
+  413  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  414  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  415  cd .ssh
+  416  ls
+  417  cat id_ed25519.pub 
+  418  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ++cDBM2zY7i74TWitIRnftvSaxBhiQP9fdvPRfwRGJ roma@DESKTOP-T74VU4S~
+  419  ec2-user@linux.itcareerhub.de
+  420  linux.itcareerhub.de
+  421  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  422  ls /c/Users/roma/.ssh/id_rsa
+  423  cat ~/.ssh/id_ed25519.pub
+  424  exit
+  425  csd
+  426  cd
+  427  ls
+  428  cd Desktop/
+  429  mkdir Roman
+  430  cd Roma
+  431  cd Roman/
+  432  ls
+  433  nano Roman.sh
+  434  ls
+  435  chmod 744 Roman.sh 
+  436  ls
+  437  ls -la
+  438  chmod 777 Roman.sh 
+  439  ls -la
+  440  ./ Roman.sh 
+  441  nano Roman.sh 
+  442  ls -la
+  443  ./ Roman.sh 
+  444  ./Roman.sh
+  445  ls
+  446  nano Roman.sh 
+  447  pwd
+  448  cd
+  449  cd Desktop/
+  450  ls
+  451  cd 24.10.2024/
+  452  ls
+  453  nano README.md 
+  454  pwd
+  455  ls'
+  456  ls
+  457  ls
+  458  cd
+  459  cd Desktop/
+  460  ls
+  461  cd Roma
+  462  cd Roman
+  463  ls
+  464  ls -la
+  465  cd
+  466  ls
+  467  cd Desktop/
+  468  git clone git@github.com:RomanBorenko1/Linux_Homework.git
+  469  ls
+  470  cd Linux_Homework/
+  471  ls-la
+  472  ls -la
+  473  cd
+  474  cd
+  475  cat .ssh/id_ed25519.pub
+  476  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  477  cat .ssh
+  478  cd
+  479  cd
+  480  cat .ssh
+  481  ls /c/Users/roma/.ssh/id_rsa
+  482  cd .ssh/
+  483  ls
+  484  /c/Users/roma/.ssh/
+  485  ls
+  486  ls -la
+  487  -i ~/.ssh/id_rsa
+  488  ~/.ssh/id_rsa
+  489  ~/.ssh/
+  490  ls
+  491  ls /c/Users/roma/.ssh/id_rsa
+  492  ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa
+  493  cd .ssh
+  494  cat ~/.ssh/id_rsa.pub | ssh ec2-user@linux.itcareerhub.de 'cat >> ~/.ssh/authorized_keys'
+  495  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  496  cat ~/.ssh/id_rsa.pub | ssh ec2-user@linux.itcareerhub.de 'cat >> ~/.ssh/authorized_keys'
+  497  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  498  exirt
+  499  exit
+  500  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  501  cd
+  502  ls
+  503  cd Desktop/
+  504  ls
+  505  cd learning_git/
+  506  ls
+  507  cd ..
+  508  ls
+  509  cd Linux_Homework/
+  510  ls
+  511  mkdir Linux_Домашнее_задание_11 
+  512  pwd
+  513  cd Linux_Домашнее_задание_11/
+  514  pwd
+  515  [ec2-user@ip-10-0-42-153 new_folder_1]$ scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de:/opt/290724-ptm/Roman_Borenko/new_folder_1/permission_checker.sh /c/Users/roma/Desktop/Linux_Homework/Linux_Домашнее_задание_11
+  516  Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+  517  [ec2-user@ip-10-0-42-153 new_folder_1]$
+  518  [ec2-user@ip-10-0-42-153 new_folder_1]$ scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de:/opt/290724-ptm/Roman_Borenko/new_folder_1/permission_checker.sh /c/Users/roma/Desktop/Linux_Homework/Linux_Домашнее_задание_11
+  519  Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+  520  [ec2-user@ip-10-0-42-153 new_folder_1]$
+  521  scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de:/opt/290724-ptm/Roman_Borenko/new_folder_1/permission_checker.sh /c/Users/roma/Desktop/Linux_Homework/Linux_Домашнее_задание_11
+  522  ls
+  523  ls
+  524  cd ..
+  525  ls
+  526  ls -la
+  527  chmof 766 Linux_Домашнее_задание_11/
+  528  chmod 766 Linux_Домашнее_задание_11/
+  529  ls -la
+  530  chmod 744 ~/.ssh/id_rsa
+  531  chmod 744 Linux_Домашнее_задание_11/
+  532  ls
+  533  ls =la
+  534  ls -la
+  535  scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de:/opt/290724-ptm/Roman_Borenko/new_folder_1/permission_checker.sh C:\Users\roma\Desktop\Linux_Homework\Linux_Домашнее_задание_11
+  536  ls
+  537  ls -la
+  538  cp C:UsersromaDesktopLinux_HomeworkLinux_Домашнее_задание_11* Linux_Домашнее_задание_11/
+  539  cd C\:UsersromaDesktopLinux_HomeworkLinux_Домашнее_задание_11 
+  540  ls
+  541  cd Linux_Домашнее_задание_11/
+  542  ls
+  543  cd ..
+  544  ls
+  545  rm -rf C\:UsersromaDesktopLinux_HomeworkLinux_Домашнее_задание_11 
+  546  ls
+  547  cd Linux_Домашнее_задание_11/
+  548  ls
+  549  ls
+  550  nano permission_checker.sh 
+  551  nano permission_checker.sh 
+  552  cd ..
+  553  ls
+  554  git status
+  555  git add .
+  556  git status
+  557  git commit -m 'Linux_Домашнее_задание_11'
+  558  git push
+  559  cd ..
+  560  cd
+  561  cd Desktop/
+  562  git clone git@github.com:RomanBorenko1/Git_houm.git 
+  563   d Git_houm/
+  564  cd Git_houm/
+  565  ls
+  566  git checkout -b feature
+  567  ls
+  568  nano README.md 
+  569  ls -la
+  570  nano .gitignore
+  571  ls
+  572  ls -la
+  573  git status
+  574  git add .
+  575  git commit -m 'abb feil'
+  576  git push
+  577  git push --set-upstream origin feature
+  578  git commit --amend 'ammend'
+  579  git commit --amend 
+  580  git push
+  581  git status
+  582   git checkout main
+  583  git branch
+  584  git merge feature 
+  585  ls
+  586  history > history.txt
