@@ -1,0 +1,8 @@
+# Исключаем файлы редакторов и IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
